@@ -11,12 +11,12 @@ These comments will be automatically added by models created by this CrudGenerat
 Via Composer
 
 ``` bash
-$ composer require flightsadmin/crudgenerator
+$ composer require fygarciaj/crudgenerator
 ```
 
 ## Usage
 If you would like to publish the other file such as config, stubs and views to customize them
 you can do so with
 ```bash
-$ php artisan vendor:publish --provider="Flightsadmin\CrudGenerator\CrudGeneratorServiceProvider"
+$ php artisan vendor:publish --provider="Fygarciaj\CrudGenerator\CrudGeneratorServiceProvider"
 ```
